@@ -1,3 +1,3 @@
 ### Hi, I'm Zach
 
-I'm an astronomy researcher at the [University of Washington](https://depts.washington.edu/astron/) in Seattle. I'm interested in many things, including: dynamics, planet formation, and parameter inference methods. Currently, I build software tools for characterizing transiting exoplanets and modeling fast-moving solar system objects. Check out my work below!
+I'm an astrophysics graduate student at the [University of Pennsylvania](https://www.physics.upenn.edu/) in Philadelphia. I'm interested in many things, including: dynamics, planet formation, high-performance computing, and data analysis methods. Currently, I work on characterizing exoplanet systems, and I study the dynamics of stellar streams within galaxies. Check out some of my work below!
